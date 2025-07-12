@@ -1,0 +1,104 @@
+#+TITLE: Umzug
+#+AUTHOR: Marin Janssen
+#+STARTUP:     overview
+
+* Bewerbungerstellen
+:PROPERTIES:
+:CATEGORY: Bewerbung
+:END:
+** Check24
+** d-fine
+
+* Umzug
+** Checkliste
+:PROPERTIES:
+:CATEGORY: Umzug
+:END:
+*** TODO Checkliste ausbauen
+*** TODO Garage und Flur entruempeln
+SCHEDULED: <2025-07-13 Sun>
+*** TODO neuen Mietvertrag abschliessen
+*** TODO Abos kuendingen ?
+SCHEDULED: <2025-07-13 Sun>
+*** TODO Helfer organisieren
+**** Julia
+**** (Max)
+**** Leonard
+**** Pia
+*** TODO Packmaterial
+*** TODO Kartons packen
+*** TODO Checkliste Gegenstaende
+SCHEDULED: <2025-07-14 Mon>
+*** TODO Tricount Kostenplan
+SCHEDULED: <2025-07-14 Mon>
+*** TODO unnoetige Gegenstaende verkaufen, entsorgen
+:PROPERTIES:
+:CATEGORY: Items
+:END:
+**** TODO Weisser kleiner Ikea Tisch
+**** TODO Mixer
+**** TODO Whiteboard
+**** TODO Fake Brueste
+**** DONE alte Winterjacke
+CLOSED: [2025-07-12 Sat 21:11]
+**** TODO Boxershorts
+**** TODO Hotpants
+**** TODO Duschkopf
+**** TODO Ordner
+**** TODO Trinkflaschen
+**** TODO ToGo Wasserkocher
+**** TODO Mathe Wanduhr
+**** TODO Moerser
+**** TODO Glaeser
+**** TODO TuckUnterwaesche
+**** TODO Whiskeybuch
+**** TODO Schachuhr
+**** TODO Mokka Kanne small
+**** TODO Mokka Kanne large
+**** TODO Govee Lampe
+**** TODO Pizza-Stahl
+**** TODO Butter Glocke
+*** TODO Wohungsuebergabe mit Vermieter klaeren
+*** Wichtige Dokumente, Schmuck und Wertgegenstaende separat verpacken
+*** TODO Nachsendeauftrag Post
+SCHEDULED: <2025-08-25 Mon>
+*** TODO Adresse aendern
+:PROPERTIES:
+:CATEGORY: Ummelden
+:END:
+**** TODO Bank
+SCHEDULED: <2025-07-13 Sun>
+**** TODO Krankenkasse
+**** TODO Check24
+SCHEDULED: <2025-07-13 Sun>
+**** TODO Arbeitgeber
+**** TODO Amazon
+SCHEDULED: <2025-07-13 Sun>
+**** TODO Cardmarket
+**** TODO Einwohnermeldeamt
+SCHEDULED: <2025-08-08 Fri>
+**** TODO Finanzamt
+**** TODO GEZ
+**** TODO Familie Freunde
+*** Tipps fuers packen befolgen
+**** Utensilien besorgen
+SCHEDULED: <2025-08-04 Mon>
+***** TODO Klebeband
+***** TODO Muellsaecke
+***** TODO Hanschuhe
+***** TODO Spannbaender
+***** TODO Decken/Bettlaken
+***** TODO Packpapier/Luftpolster
+*** TODO Moebel abbauen
+*** TODO alte Wohnung reinigen
+*** Restarbeiten
+*** Schild Parkplaetze freihalten
+*** TODO Haushalts Orga Plan erstellen
+**** TODO Bankkonto erstellen
+SCHEDULED: <2025-07-14 Mon>
+**** TODO Zaehlerstaende vor Einzug ablesen
+SCHEDULED: <2025-08-04 Mon>
+**** TODO Mietkaution klaeren ?
+SCHEDULED: <2025-07-13 Sun>
+*** TODO Dauerauftraege ueberpruefen
+SCHEDULED: <2025-09-26 Fri>
