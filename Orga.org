@@ -15,11 +15,12 @@
 :CATEGORY: Umzug
 :END:
 *** TODO Checkliste ausbauen
+SCHEDULED: <2025-07-14 Mon 14:00-16:00> DEADLINE: <2025-07-14 Mon 17:00>
 *** TODO Garage und Flur entruempeln
 SCHEDULED: <2025-07-13 Sun>
 *** TODO neuen Mietvertrag abschliessen
-*** TODO Abos kuendingen ?
-SCHEDULED: <2025-07-13 Sun>
+*** DONE Abos kuendingen ?
+CLOSED: [2025-07-13 Sun 16:40] SCHEDULED: <2025-07-13 Sun>
 *** TODO Helfer organisieren
 **** Julia
 **** (Max)
@@ -58,6 +59,7 @@ CLOSED: [2025-07-12 Sat 21:11]
 **** TODO Govee Lampe
 **** TODO Pizza-Stahl
 **** TODO Butter Glocke
+**** TODO Kindle
 *** TODO Wohungsuebergabe mit Vermieter klaeren
 *** Wichtige Dokumente, Schmuck und Wertgegenstaende separat verpacken
 *** TODO Nachsendeauftrag Post
@@ -66,20 +68,30 @@ SCHEDULED: <2025-08-25 Mon>
 :PROPERTIES:
 :CATEGORY: Ummelden
 :END:
-**** TODO Bank
-SCHEDULED: <2025-07-13 Sun>
+**** DONE Bank
+CLOSED: [2025-07-13 Sun 17:01] SCHEDULED: <2025-07-13 Sun>
+***** DONE ING
+CLOSED: [2025-07-13 Sun 16:49]
+***** DONE Volksbank
+CLOSED: [2025-07-13 Sun 16:58]
+***** DONE Scalable Capital
+CLOSED: [2025-07-13 Sun 17:01]
 **** TODO Krankenkasse
-**** TODO Check24
-SCHEDULED: <2025-07-13 Sun>
+**** DONE Check24
+CLOSED: [2025-07-13 Sun 17:27] SCHEDULED: <2025-07-13 Sun>
 **** TODO Arbeitgeber
-**** TODO Amazon
-SCHEDULED: <2025-07-13 Sun>
-**** TODO Cardmarket
+**** DONE Amazon
+CLOSED: [2025-07-13 Sun 16:43] SCHEDULED: <2025-07-13 Sun>
+**** DONE Cardmarket
+CLOSED: [2025-07-13 Sun 17:06]
 **** TODO Einwohnermeldeamt
 SCHEDULED: <2025-08-08 Fri>
 **** TODO Finanzamt
 **** TODO GEZ
 **** TODO Familie Freunde
+**** TODO Hausratsversicherung
+SCHEDULED: <2025-07-14 Mon>
+
 *** Tipps fuers packen befolgen
 **** Utensilien besorgen
 SCHEDULED: <2025-08-04 Mon>
@@ -102,3 +114,9 @@ SCHEDULED: <2025-08-04 Mon>
 SCHEDULED: <2025-07-13 Sun>
 *** TODO Dauerauftraege ueberpruefen
 SCHEDULED: <2025-09-26 Fri>
+
+
+
+* Orga
+** TODO Volksbank Aenderung AGB zustimmung
+DEADLINE: <2025-10-05 Sun> SCHEDULED: <2025-09-28 Sun>
